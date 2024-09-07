@@ -1,0 +1,65 @@
+[
+	{"servicio":"reparacion Enchufe",
+	"detalle" : " se cambia el bastidor completo",
+	"precio": "25000",
+	"costo": "13000",
+	"tiempo": "30 min ",
+	"id": 1},
+
+ 	{"servicio":"reparacionTecla",
+	"detalle": " se cambia el bastidor completo",
+	"precio": "20000",
+	"costo": "12000",
+	"tiempo": "30 min ",
+	"id": 2},
+
+	{"servicio":"cableado 1,5mm",
+	"detalle": " cableado de 1.5mm2- Linea , Neutro ,Tierra x metro  ",
+	"precio": "6000",
+	"costo": "4000",
+	"tiempo": "30 min ",
+	"id": 3},
+
+	{"servicio":"cableado 2,5mm",
+	"detalle": " cableado  de 2.5mm2- Linea , Neutro , Tierra x metro  ",
+	"precio": "6000",
+	"costo": "4000",
+	"tiempo": "30 min ",
+	"id": 3},
+
+ 	{"servicio":"cambio Termica",
+	"detalle": "se cambia llave termica por una nueva",
+	"precio": "25000",
+	"costo": "18000",
+	"tiempo": "20 min ",
+	"id": 4},
+
+	{"servicio":"cambio Disyuntor",
+	"detalle": "se cambia por uno nuevo y se prueba la puesta a tierra",
+	"precio": "50000",
+	"costo": "35000",
+	"tiempo": "60 min ",
+	"id": 5},
+
+	{"servicio":"InstalacionLuz",
+	"detalle": "Instalacion luz led 18wats",
+	"precio": "10000",
+	"costo": "3000",
+	"tiempo": "30 min ",
+	"id": 6},
+
+	{"servicio":"InstalacionReflector",
+	"detalle": "Instalacion Reflector led 20w",
+	"precio": "16000",
+	"costo": "8000",
+	"tiempo": "30 min ",
+	"id": 7},
+
+ 	{"servicio":"InstalacionGenerica" ,
+	"detalle": "Instalaciones varias como estractores y motores",
+	"precio": "16000",
+	"costo": "8000",
+	"tiempo": "30 min ",
+	"id": 8}
+
+]

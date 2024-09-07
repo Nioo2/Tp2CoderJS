@@ -1,0 +1,35 @@
+body{background-color: #333; }
+
+header{ background-color: yellow; }
+
+header h1{  font-size: 5vh; text-align:center }
+header h2{ font-size: 5vh; text-align:center }
+section h2{ font-size: 5vh; text-align:center }
+section h3{ font-size: 5vh; text-align:center }
+nav{ background-color:orange; text-align: center  }
+
+nav select{  background-color:  #999; width: 50%; margin-left: 10%;font-size: 5vh}
+nav button{ font-size:5vh }
+
+
+section { background-color: yellow;  width:90%; margin-left: 5% ;}
+
+section tr{border: solid 1px black;}
+
+
+form{background-color: orange; width: 80%; margin-left: 20;}
+
+button{width: 80%; margin-left: 40px;}
+
+inputs{width: 80%; margin-left: 40px;}
+
+
+#pantalla{ background-color: yellow ; text-align: center;  }
+
+#formu{ background-color:orange; width:80%; margin-left:10%;  min-height:20vh; }
+
+
+
+
+
+.alumno{	background-color: grey; }
